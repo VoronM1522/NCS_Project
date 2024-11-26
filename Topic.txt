@@ -1,0 +1,18 @@
+Group members:
+    Mikhail Voronin
+
+Project title:
+    Analysis of software vulnerabilities and development of recommendations
+
+Project task:
+    Identify vulnerabilities by fuzzing-testing or select a known vulnerability
+
+    Analyze and exploit the vulnerability
+
+    Develop recommendations to eliminate or minimize the damage
+
+Technology stack:
+    Linux, Debugger, Fuzzing-tools
+
+Link to repository:
+    https://github.com/VoronM1522/NCS_Project
